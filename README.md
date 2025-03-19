@@ -46,5 +46,5 @@ I am a Software Developer specializing in Python, PHP, JavaScript, Java, NodeJS,
 ---
 
 ### 🎭 Fun Fact
-I support Manchester United and love playing football video games! 🎮⚽
+I support Manchester United and love playing EA FC 🎮⚽
 
