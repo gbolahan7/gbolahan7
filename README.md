@@ -19,7 +19,7 @@ I am a Software Developer specializing in Python, PHP, JavaScript, Java, NodeJS,
 
 ### 🌱 I’m currently learning ...
 - 📌 Python for ML & AI
-- 📌 Kotlin for Mobile app development
+- 📌 Mobile app development ( Kotlin )
 - 📌 TypeScript for server-side applications
   
 
