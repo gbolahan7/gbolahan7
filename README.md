@@ -35,9 +35,10 @@ I am a Software Developer specializing in Python, PHP, JavaScript, Java, and Nod
 ---
 
 ### 📊 GitHub Stats
-![Gbolahan7's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbolahan7&show_icons=true&theme=radical)
+![Gbolahan7's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbolahan7&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=1800)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbolahan7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbolahan7&layout=compact&theme=radical&langs_count=8&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
