@@ -1,9 +1,9 @@
 
 ## Hi there 👋
 
-### 🚀 Software Developer | AI & ML Enthusiast
+### 🚀 Software Engineer | SDET | Software QA Engineer 
 
-I am a Software Developer specializing in Python, PHP, JavaScript, Java, and NodeJS for web app development. -  Passionate about AI, automation, and mobile app dev.
+I am a Software Engineer specializing in Python, PHP, JavaScript, Java, and NodeJS for app development. -  Passionate about Software Quality, Agentic Development, & Automation
 
 ---
 ---
