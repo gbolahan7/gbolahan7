@@ -3,7 +3,7 @@
 
 ### 🚀 Software Engineer | SDET | Software QA Engineer 
 
-Software Development Engineer in Test (SDET) and Software Engineer focused on building reliable, scalable software through test automation and quality engineering. I work across API, backend, UI, integration, and performance testing, with hands-on experience using Python, JavaScript, Java, Playwright, Selenium, Cypress, Postman, JUnit, Docker, Jenkins, and AWS.
+## Software Development Engineer in Test (SDET) and Software Engineer focused on building reliable, scalable software through test automation and quality engineering. I work across API, backend, UI, integration, and performance testing, with hands-on experience using Python, JavaScript, Java, Playwright, Selenium, Cypress, Postman, JUnit, Docker, Jenkins, and AWS.
 ---
 ---
 
