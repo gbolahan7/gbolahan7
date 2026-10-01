@@ -3,15 +3,14 @@
 
 ### 🚀 Software Engineer | SDET | Software QA Engineer 
 
-I am a Software Engineer specializing in Python, PHP, JavaScript, Java, and NodeJS for app development. -  Passionate about Software Quality, Agentic Development, & Automation
-
+Software Development Engineer in Test (SDET) and Software Engineer focused on building reliable, scalable software through test automation and quality engineering. I work across API, backend, UI, integration, and performance testing, with hands-on experience using Python, JavaScript, Java, Playwright, Selenium, Cypress, Postman, JUnit, Docker, Jenkins, and AWS.
 ---
 ---
 
 ### ⚡ Quick Highlights
-- ✅ Successfully setup Python with Statistical Analysis System for data analysis
-- ✅ Developed automated process for mortgage affordability calculations
-- ✅ Built data pipelines for credit risk analysis
+- ✅ Built Playwright + Python automated smoke and regression tests for payment workflows
+- ✅ Developed automated process for mortgage affordability calculations for various lenders
+- ✅ Integrated automated testing into CI/CD pipelines using Jenkins and 
 - ✅ Implemented a reporting microservice with an ANPR system for automated reports 
 - ✅ Working on AI-driven sentiment analysis
 
